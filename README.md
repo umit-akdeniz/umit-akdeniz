@@ -9,7 +9,7 @@ Undergraduate Physics student at Istanbul University — Faculty of Science, Dep
 **B.Sc. in Physics**  
 Istanbul University — Faculty of Science  
 Department of Physics  
-*Expected Graduation: [Insert Year]*
+*Expected Graduation: 2026*
 
 ---
 
@@ -32,8 +32,7 @@ Department of Physics
 
 ## Selected Projects
 
-- **Quantum Oscillator Simulation** — Simulated 1D quantum harmonic oscillator using finite-difference methods in Python.  
-- **Scientific Document Automation** — Developed a LaTeX-based system for auto-generating physics lab reports with dynamic data integration.
+- **Higgs2bbClassifier** — - **Higgs2bbClassifier** — A supervised machine learning model designed to classify Higgs boson decay events into two bottom quarks (H→bb). Utilizes high-level event features from simulated particle collision datasets. Developed using Python and scikit-learn to explore signal-background separation in high-energy physics.
 
 ---
 
@@ -41,7 +40,6 @@ Department of Physics
 
 - **Email:** umitphy@gmail.com  
 - **Website:** [umitakdeniz.com](https://umitakdeniz.com)  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) *(Update when available)*
 
 ---
 
