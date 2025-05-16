@@ -1,4 +1,4 @@
-# Ümit Akdeniz
+Umit Akdeniz
 
 Undergraduate Physics student at Istanbul University — Faculty of Science, Department of Physics. Focused on theoretical and computational physics, with growing experience in scientific programming, numerical modeling, and reproducible scientific workflows.
 
