@@ -1,46 +1,54 @@
 # Ümit Akdeniz
 
-Undergraduate student in Physics at Istanbul University, Faculty of Science, Department of Physics. Focused on developing a solid foundation in theoretical and computational physics. Interested in scientific programming, open-source collaboration, and modern data analysis.
+Undergraduate Physics student at Istanbul University — Faculty of Science, Department of Physics. Focused on theoretical and computational physics, with growing experience in scientific programming, numerical modeling, and reproducible scientific workflows.
 
 ---
 
 ## Education
 
 **B.Sc. in Physics**  
-Istanbul University – Faculty of Science  
+Istanbul University — Faculty of Science  
 Department of Physics  
-*Expected Graduation: 2026*
+*Expected Graduation: [Insert Year]*
 
 ---
 
-## Interests
+## Academic Interests
 
-- Quantum mechanics, Particle Physics  
-- Computational and numerical physics  
+- Theoretical physics, quantum field theory  
+- Computational physics and numerical methods  
 - Machine learning in physical sciences  
-- Scientific programming and reproducibility  
+- Scientific computing and open science practices
 
 ---
 
-## Technical Proficiencies
+## Skills & Technologies
 
-- **Languages:** Python, Bash, LaTeX, MATLAB  
-- **Libraries/Tools:** NumPy, SciPy, Pandas, Matplotlib, Jupyter, Git, Linux  
+- **Programming:** Python, Bash, MATLAB, LaTeX  
+- **Scientific Tools:** Jupyter, Git, Linux, Pandas, NumPy, SciPy, Matplotlib  
+- **Languages:** Turkish (native), English (advanced)
 
 ---
+
+## Selected Projects
+
+- **Quantum Oscillator Simulation** — Simulated 1D quantum harmonic oscillator using finite-difference methods in Python.  
+- **Scientific Document Automation** — Developed a LaTeX-based system for auto-generating physics lab reports with dynamic data integration.
 
 ---
 
 ## Contact
 
 - **Email:** umitphy@gmail.com  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **Website:** [yourwebsite.com](https://yourwebsite.com) *(optional)*
+- **Website:** [umitakdeniz.com](https://umitakdeniz.com)  
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) *(Update when available)*
 
 ---
 
-## GitHub Summary
+## Contribution Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=umit-akdeniz&show_icons=true&hide_title=true&include_all_commits=true&count_private=true)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=umit-akdeniz)
-
+```text
+GitHub Contributions (last 12 months)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇
+Low activity                             High activity
